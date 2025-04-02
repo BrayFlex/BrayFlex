@@ -31,7 +31,7 @@ Great, let use it.
 
 ### 🌎 Life Beyond Code
 - 📈 **Investing** 
-- 🔨 **Woodworking**
+- 🪵 **Woodworking**
 - 🏎️ **Cars**
 - ⛺ **Survivalist Camping**
 - 🍸 **Crafting food/drinks**
