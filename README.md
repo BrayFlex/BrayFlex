@@ -2,6 +2,7 @@
 
 **Independent Contractor | Builder of Things | Problem Solver**  
 📍 Ottawa Ontario 
+brayden📧flexmans.com
 
 ### 🚀 Open to Work
 I'm currently open to work opportunities. I specialize in:
