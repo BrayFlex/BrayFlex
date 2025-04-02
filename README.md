@@ -21,10 +21,10 @@ I've adopted a new language/software every year, the way I look at tech stacks i
 Great, let use it.
 
 ### 💡 Beliefs
-- **"The best inventions come from agency, not intelligence"**  
-- **"If it takes > 1 day to plan, it's faster to just build it (FAaFO)"**  
-- **"Code fast enough to make up for mistakes, or slow enough to avoid them"**  
-- **"AI will accelerate knowledge beyond society's readiness"**  
+- *The best inventions come from agency, not intelligence*  
+- *If it takes > 1 day to plan, it's faster to just build it (FAaFO)*  
+- *Code fast enough to make up for mistakes, or slow enough to avoid them*  
+- *AI will accelerate knowledge beyond society's readiness*  
 
 ### 🌌 Life Beyond Code
 - 📈 **Investing** 
