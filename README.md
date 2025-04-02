@@ -17,6 +17,7 @@ I'm currently open to work opportunities. I specialize in:
 I've adopted a new language/software every year, the way I look at tech stacks is:
 1. Does it impede me? No.
 2. Does it impede the program? No.
+   
 Great, let use it.
 
 ### 💡 Beliefs
