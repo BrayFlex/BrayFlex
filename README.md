@@ -14,7 +14,7 @@ I'm currently open to work opportunities. I specialize in:
 - **AI & Machine Learning**
 
 ### 🤷 Tech Stack
-I've adopted a new language/software every year, the way I look at tech stacks is:
+I have adopted a new language/software every year, here is how I evaluate tech stacks:
 1. Does it impede me? No.
 2. Does it impede the program? No.
    
