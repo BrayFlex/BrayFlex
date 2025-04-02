@@ -1,21 +1,37 @@
+# 👋 Hi, I'm Brayden
 
-<!--
-### Hi there 👋
+**Independent Contractor | Builder of Things | Problem Solver**  
+📍 Ottawa Ontario 
 
-**BrayFlex/BrayFlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Open to Work
+I'm currently open to work opportunities. I specialize in:
+- **Data Dashboards**
+- **Web/Mobile Applications**
+- **FinTech & Stock Market Solutions**
+- **Game Dev** (side projects galore)
+- **AI & Machine Learning**
 
-Here are some ideas to get you started:
+### 🤷 Tech Stack
+I've adopted a new language/software every year, the way I look at tech stacks is:
+1. Does it impede me? No.
+2. Does it impede the program? No.
+Great, let use it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayflex&count_private=true&show_icons=true&theme=vue&hide=stars)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayflex&layout=compact&count_private=true) -->
+### 💡 Beliefs
+- **"The best inventions come from agency, not intelligence"**  
+- **"If it takes > 1 day to plan, it's faster to just build it (FAaFO)"**  
+- **"Code fast enough to make up for mistakes, or slow enough to avoid them"**  
+- **"AI will accelerate knowledge beyond society's readiness"**  
 
+### 🌌 Life Beyond Code
+- 📈 **Investing** p  
+- 🔨 **Woodworking**
+- 🏎️ **Cars**
+- ⛺ **Survivalist Camping**
+- 🍸 **Crafting food/drinks**
 
+### 🧑‍💻️ Let's Build Something
+```python
+if you.have_interesting_project():
+    await me.collaborate()
+```
