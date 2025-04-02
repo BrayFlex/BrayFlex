@@ -24,7 +24,7 @@ Great, let use it.
 - **"AI will accelerate knowledge beyond society's readiness"**  
 
 ### 🌌 Life Beyond Code
-- 📈 **Investing** p  
+- 📈 **Investing** 
 - 🔨 **Woodworking**
 - 🏎️ **Cars**
 - ⛺ **Survivalist Camping**
