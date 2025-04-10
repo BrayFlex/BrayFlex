@@ -18,7 +18,7 @@ I adopt a new language/software every year, here is how I evaluate tech stacks:
 1. Does it impede me? No.
 2. Does it impede the program? No.
    
-Great, let use it.
+Great, let's use it.
 
 ### 🤔 Mantras
 - *The best inventions come from agency, not intelligence*  
