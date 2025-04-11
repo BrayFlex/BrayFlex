@@ -5,8 +5,8 @@
 
 brayden📧flexmans.com
 
-### 🚀 Open to Work
-I'm currently open to work opportunities. I specialize in:
+### 🚀 Open to offers
+I specialize in:
 - **Data Dashboards**
 - **Web/Mobile Applications**
 - **FinTech & Stock Market Solutions**
