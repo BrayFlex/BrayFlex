@@ -7,10 +7,12 @@ brayden📧flexmans.com
 
 ### 🚀 Open to offers
 I specialize in:
+- **Application Design**
+- **User Experience**
 - **Data Dashboards**
-- **Web/Mobile Applications**
-- **FinTech & Stock Market Solutions**
-- **Game Dev** (side projects galore)
+- **Web/Mobile Apps**
+- **FinTech & Financial Market Solutions**
+- **Game Development** (side projects galore)
 - **AI & Machine Learning**
 
 ### 🛠️ Tech Stack
@@ -22,12 +24,12 @@ Great, let's use it.
 
 ### 🤔 Mantras
 - *The best inventions come from agency, not intelligence*  
-- *If it takes > 1 day to plan, it's faster to just build it (FAaFO)*  
+- *If it takes > 1 day to plan, it's best to just prototype it*  
 - *Code fast enough to make up for mistakes, or slow enough to avoid them*  
 
 ### ☝️ AI Beliefs
 - *AI will accelerate knowledge beyond society's readiness*
-- ...I may be out of a job in the near future 🤯
+- ...I may be out of a career in the future 👀
 
 ### 🌎 Life Beyond Code
 - 📈 **Investing** 
@@ -35,6 +37,7 @@ Great, let's use it.
 - 🏎️ **Cars**
 - ⛺ **Survivalist Camping**
 - 🍸 **Crafting food/drinks**
+- ✈️ **Travel Adventures**
 
 ### 🧑‍💻️ Let's Build Something
 ```python
